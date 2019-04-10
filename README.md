@@ -1,3 +1,4 @@
+permalink: /index.html
 # [Get Shit Done Kit - Free Bootstrap UI Kit](http://demos.creative-tim.com/get-shit-done/index.html)
 
 ![Get Shit Done Kit](http://s3.amazonaws.com/creativetim_bucket/products/17/original/GSDK_thumbnail3.png?1431435570 "Get Shit Done Kit")
